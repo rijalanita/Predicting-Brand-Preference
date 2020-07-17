@@ -1,7 +1,7 @@
 ## Predicting-Brand-Preference
 Link: https://rpubs.com/anitarijal/BelkinvsElagoPreferences
 ### Task: Use responses from customer survey to predict whether the customer is likely to purchase from the brand Belkin or Elago.
-### Plan:
+### Requirements:
         1. Load csv file and save as a dataframe in R console
         2. Understand data structure, explore the customer responses and preprocess the data
         3. Choose data features to be used as dependent variables in predicting brand feature
